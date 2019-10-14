@@ -1,0 +1,1 @@
+Here is some more text added to another file being added to git through the terminal.
